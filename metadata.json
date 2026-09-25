@@ -1,0 +1,6 @@
+{
+  "name": "TIEMPO — English Past Tenses",
+  "description": "An elegant, Helvetica-inspired interactive guide to English past tenses for native Spanish speakers, grounded in Renaat Declerck's time-sphere grammar theory with 100+ verbs, interactive quizzes, flashcards, and reading analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
